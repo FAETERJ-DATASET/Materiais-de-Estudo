@@ -9,4 +9,4 @@ Repositório da FAETERJ-RIO para materiais de estudo. Centralizando recursos aca
 Preencham nessa estrutura, vamos criar uma grande base de dados >:)!
 
 ### 1° Período: 
-* [FAC](1° período/FAC)
+* [FAC](1°%20período/FAC)
