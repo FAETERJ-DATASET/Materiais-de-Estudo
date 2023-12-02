@@ -7,6 +7,11 @@
 ### Descrição
 Repositório da FAETERJ-RIO para materiais de estudo. Centralizando recursos acadêmicos dos professores para fácil acesso dos alunos: slides, documentos e códigos. Colabore e aprimore seus estudos neste espaço dedicado.
 
+### Regras
+Por favor, observe as seguintes regras ao contribuir para este projeto:
+
+**1. Não coloque conteúdo repetido:** Evite duplicar informações já existentes no projeto. Antes de adicionar novo conteúdo, verifique se já não foi coberto em outra seção ou documento. 
+
 ### Estrutura:
 **Períodos** com suas **disciplinas** que possuem seus devidos **professores(as)** que por fim, terão seus conteúdos armazenados. 
 
