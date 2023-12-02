@@ -14,3 +14,19 @@ Preencham nessa estrutura, vamos criar uma grande base de dados >:)!
 
 ### 1° Período: 
 * [FAC](1°%20período/FAC)
+
+### Como Contribuir
+Nós adoramos receber contribuições de todos! Se você deseja contribuir com este projeto, por favor, siga as diretrizes abaixo para tornar o processo de contribuição suave e eficaz.
+
+**1.** Fork o repositório e clone-o para o seu ambiente local.
+
+**2.** Crie uma nova branch a partir da branch principal (main ou master) para trabalhar nas suas alterações.
+
+**3.** Faça commit das suas alterações.
+
+**4.** Push suas alterações para o seu fork do repositório.
+
+**5.** Envie um pull request com uma descrição das suas alterações.
+
+### Problemas e Sugestões
+Se você encontrar algum problema com o projeto ou tiver uma sugestão de melhoria, por favor, abra uma issue descrevendo detalhadamente o problema ou a sugestão.
