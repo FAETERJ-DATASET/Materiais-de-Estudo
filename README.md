@@ -7,6 +7,11 @@
 ### Descrição
 Repositório da FAETERJ-RIO para materiais de estudo. Centralizando recursos acadêmicos dos professores para fácil acesso dos alunos: slides, documentos e códigos. Colabore e aprimore seus estudos neste espaço dedicado.
 
+### Regras
+Por favor, observe as seguintes regras ao contribuir para este projeto:
+
+**1. Não coloque conteúdo repetido:** Evite duplicar informações já existentes no projeto. Antes de adicionar novo conteúdo, verifique se já não foi coberto em outra seção ou documento. 
+
 ### Estrutura:
 **Períodos** com suas **disciplinas** que possuem seus devidos **professores(as)** que por fim, terão seus conteúdos armazenados. 
 
@@ -14,6 +19,48 @@ Preencham nessa estrutura, vamos criar uma grande base de dados >:)!
 
 ### 1° Período: 
 * [FAC](1°%20período/FAC)
+* [IAS](1°%20período/IAS)
+* [IHM](1°%20período/IHM)
+* [LPO](1°%20período/LPO)
+* [MAB](1°%20período/MAB)
+* [ORG](1°%20período/ORG)
+
+### 2° Período: 
+* [FPR](2°%20período/FPR)
+* [CAL](2°%20período/CAL)
+* [CAW](2°%20período/CAW)
+* [REQ](2°%20período/REQ)
+* [SOP](2°%20período/SOP)
+* [LES](2°%20período/LES)
+* [TPH](2°%20período/TPH)
+* [MPA](2°%20período/MPA)
+
+### 3° Período: 
+* [ESD](3°%20período/ESD)
+* [POB](3°%20período/POB)
+* [ALG](3°%20período/ALG)
+* [DAW](3°%20período/DAW)
+* [RSD](3°%20período/RSD)
+* [PBD](3°%20período/PBD)
+
+### 4° Período: 
+* [LIB](4°%20período/LIB)
+* [POA](4°%20período/POA)
+* [EST](4°%20período/EST)
+* [ADS](4°%20período/ADS)
+* [MOD](4°%20período/MOD)
+* [SEG](4°%20período/SEG)
+* [UBD](4°%20período/UBD)
+* [MET](4°%20período/MET)
+* [EMP](4°%20período/EMP)
+
+### 5° Período: 
+* [PDM](5°%20período/PDM)
+* [TAV](5°%20período/TAV)
+* [PJS](5°%20período/PJS)
+* [SBD](5°%20período/SBD)
+* [TFC](5°%20período/TFC)
+* [GPS](5°%20período/GPS)
 
 ### Como Contribuir
 Nós adoramos receber contribuições de todos! Se você deseja contribuir com este projeto, por favor, siga as diretrizes abaixo para tornar o processo de contribuição suave e eficaz.
