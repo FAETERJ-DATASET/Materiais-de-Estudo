@@ -32,7 +32,7 @@ Preencham nessa estrutura, vamos criar uma grande base de dados >:)!
 * [CAW - Construção de Aplicações Web](2°%20período/CAW)
 * [REQ - Engenharia de Requisitos](2°%20período/REQ)
 * [SOP - Sistemas Operacionais](2°%20período/SOP)
-* [LES - Língua Estranageira](2°%20período/LES)
+* [LES - Língua Estrangeira](2°%20período/LES)
 * [TPH - Técnicas e Paradigmas Humanos](2°%20período/TPH)
 * [MPA - Métodos e Processos Administrativos](2°%20período/MPA)
 
