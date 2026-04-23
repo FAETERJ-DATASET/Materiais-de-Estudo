@@ -1,0 +1,11 @@
+Etapa 1: Definição do Produto (Entrega em 27/03)
+‌Identificação da Necessidade:
+Problema a ser solucionado: Descrever o problema que o software irá solucionar para o cliente.
+Público-alvo: Identificar os usuários que se beneficiarão do software.
+Funcionalidades: Definir as funcionalidades que o software precisa ter para atender às necessidades do cliente.
+Análise de Mercado:
+Concorrência: Pesquisar softwares semelhantes no mercado e analisar seus pontos fortes e fracos.
+Viabilidade: Avaliar a viabilidade técnica e comercial do projeto.
+Definição do Escopo:
+Requisitos funcionais e não funcionais: Especificar em detalhes as funcionalidades e características do software.
+Priorização de funcionalidades: Priorizar as funcionalidades de acordo com a importância para o cliente.

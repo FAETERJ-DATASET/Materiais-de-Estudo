@@ -1,0 +1,45 @@
+Etapa 2: Planejamento do
+Desenvolvimento
+
+
+
+Escolha da Metodologia:
+
+Selecionar
+uma metodologia de desenvolvimento de software adequada ao projeto (ex:
+Cascata, Scrum, Kanban).
+
+
+
+
+ 
+
+
+Cronograma:
+
+Criar
+um cronograma com as etapas do desenvolvimento e seus prazos.
+
+
+
+
+ 
+
+
+Orçamento:
+
+Estimar
+os custos do projeto, incluindo mão de obra, ferramentas e
+infraestrutura.
+
+
+
+
+ 
+
+
+Definição da Equipe:
+
+Identificar
+os recursos humanos necessários para o desenvolvimento do projeto (ex:
+desenvolvedores, testadores, designers).
