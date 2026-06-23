@@ -1,0 +1,16 @@
+Etapa 3: Desenvolvimento do Software (08/05)Comunicação com cliente:
+Realizar a Análise dos Requisitos.
+Construir os Diagramas de Casos de Uso (e outros, se necessário)
+Planejamento e Modelagem (15/05)
+Construir os Diagramas necessários para a Codificação do Software.
+Confeccionar a Documentação Correspondente.
+Protótipos são bem-vindos !
+Construção (22/05)
+Codificar as funcionalidades do software de acordo com a especificação.
+Testar as funcionalidades.
+Corrigir os Erros.
+Entregar Versão: ()
+Entregar parcialmente as funcionalidades ().
+Corrigir os erros encontrados durante os testes com cliente.
+Documentação: (29/05)
+Criar documentação do software, incluindo manual do usuário, guia de instalação e documentação técnica.
